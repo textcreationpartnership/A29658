@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tvvo letters from tvvo chief officers under the command of the Earle of Ormond Particularly relating their good and happy successe in their late expedition.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29658</idno>
+            <idno type="STC">Wing B48B</idno>
+            <idno type="STC">ESTC R220190</idno>
+            <idno type="EEBO-CITATION">99831613</idno>
+            <idno type="PROQUEST">99831613</idno>
+            <idno type="VID">36078</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29658)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36078)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2125:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Tvvo letters from tvvo chief officers under the command of the Earle of Ormond Particularly relating their good and happy successe in their late expedition.</title>
+                  <author>B. D. aut</author>
+                  <author>Wyld, Tho. aut</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for H. Blunden,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Consists of two letters, both dated 21 April; one signed "D.B.", and the other "Tho. Wyld".</note>
+                  <note>Reproduction of the original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ormonde, James Butler, --  Duke of, 1610-1688.</term>
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:36078:1"/>
+            <pb facs="tcp:36078:1"/>
+            <p>TVVO LETTERS FROM TVVO CHIEF OFFICERS under the Command of the EARLE of <hi>ORMOND.</hi>
+            </p>
+            <p>Particularly relating their good and happy Succeſſe in their late Expedition.</p>
+            <figure/>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>H. Blunden.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:36078:2"/>
+            <pb n="3" facs="tcp:36078:2"/>
+            <opener>
+               <dateline>DVBLIN <date>21. April 1642.</date>
+               </dateline>
+               <lb/>
+               <salute>Deare Brother,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Hope my former Letters are come ſafe to your hands, I have been theſe 16. dayes from <hi>Dublin.</hi> Three thouſand Forces, horſe and foot, went fourtie miles into the Countrey towards <hi>Kilkenny,</hi> to re<g ref="char:EOLhyphen"/>lieve ſome Towns and ſtrong Caſtles, kept by the <hi>Engliſh;</hi> (God be praiſed we had good ſuc<g ref="char:EOLhyphen"/>ceſſe, In all our undertakings;) we effected all things according to our deſires: we burned the Rebels Towns, and put all to the ſword all the way We marcht, and gave them a greater defeat then hath been known theſe many yeers, ſince <hi>Kingſale</hi> Camp, there hath not been known the like multitude of Rebels in Armes, near a Town called <hi>Athye</hi> (where our Army lay) the Rebels kept their <hi>Randevous,</hi> we ſaw their ſtrength the day before, and counted their Colours, which was between fiftie and threeſcore, as We plainly
+<pb n="4" facs="tcp:36078:3"/> ſaw; we could not judge them to be leſſe then 8000. men; the next morning we began our March homewards, with a full reſolution to fight with them if they came neare us; we had not marcht a mile but we perceived them on the right hand of us a mile and halfe diſtant, coming very faſt towards us, which made our Souldiers taken with much joy, hoping to encounter them, and do execution on them, (I never ſaw better reſolution in men in all my life) we marcht five miles before we could come at them, for there was a great Bog between us, they marcht on our right Flank up even with us all the time: when we made a ſtand, then they likewiſe did ſo too; and in the place where we charged them, they alſo drew themſelves into a full Bodie on the top of a Hill, we being in the bottome, (a great diſadvantage to us) howſoever we powred valleys of ſhot among them with our ordnance, and ſmall ſhot likewiſe: they ſtood us till we came almoſt within Carbines ſhot, and then they face about, and fell into diſorder, running away as faſt as they could; but we purſued them, and our Horſe did great execution on them, but were too nimble for the foot, we followed a mile to a great Bogge, where they got for their
+<pb n="5" facs="tcp:36078:3"/> defence. The number that we ſlew of them, was at leaſt ſix hundred: Amongſt which was foure of their chief Commanders, whoſe heads we brought along with us, and placed them on the gates of <hi>Dublin:</hi> Six of their Colours likewiſe we took, and very much of their Carriages; we un<g ref="char:EOLhyphen"/>derſtand that they were the abſolute ſtrength of ſeven Counties in this part of the Kingdom, and did as confidently aſſure themſelves of cutting us all off, as of meeting with us; in ſo much (they being ſo many more then us as they divided our bagage long before we fought with them, and were reſolved to ſhew no mercy to us; But it pleaſed God to bleſſe and ſtrengthen us with ſuch hearts and courage, that we made them flie before us, like duſt before the wind. I pray God to continue our hopefull proceedings; ſhortly we expect to go to <hi>Kelkenny,</hi> where the Rebels are exceeding ſtrong; ſo with my true love unto you remembred, I reſt,</p>
+            <closer>
+               <signed>Your very loving Brother, D. B.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="6" facs="tcp:36078:4"/>
+            <opener>
+               <dateline>Dublin, <date>April 21.</date>
+               </dateline>
+               <lb/>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Do acknowledge my ſelf engaged to you for your care of my buſineſſe which I un<g ref="char:EOLhyphen"/>derſtand by your letter, and will ſtudie whereby to requite it: We have great ſtore of proviſion for the preſent, but I doubt a famine will ſuddenly follow, by the reaſon of the ſpoil that is made of Corn and Cattell: for where ere we come, we kill and burn all before us, becauſe we would not have it relieve our enemies, and they do the like by us. We have received no pay ſince we came into this Kingdom, but the more is behind; We will truſt the <hi>Parliament.</hi> We were three thouſand foot, and foure hundred horſe, and five field Pieces, commanded into the Coun<g ref="char:EOLhyphen"/>tie of <hi>Wicklow,</hi> and <hi>Kildare,</hi> the ſecond of <hi>April</hi> to relieve ſome <hi>Engliſh</hi> that were beſieged by the Rebels, and very little reſiſtance was made: for they ran away ſtill before us. And thus we mar<g ref="char:EOLhyphen"/>ched three weeks about the Countrey, and re<g ref="char:EOLhyphen"/>lieved what places we were ſent to relieve. We were coming back to <hi>Dublin,</hi> but my Lord
+<pb n="7" facs="tcp:36078:4"/> 
+               <hi>Montgarret,</hi> one of the chiefe of the Rebels, thought to out us all off before we came to <hi>Dub<g ref="char:EOLhyphen"/>lin.</hi> On <hi>Friday</hi> in the morning laſt paſt, they ſhewed themſelves, and marched by us twelve thouſand till two of the clock. In the afternoon before the battell began, they had divided our Wagons, and our clothes, and appointed whoſe priſoner every man of any qualitie ſhould be, and the reſt ſhould be killed, and hanged: they brought a cartfull of Halters for that purpoſe, ſo confident they were of victorie After we had been at prayers, Sir <hi>Charles Coote</hi> ordered our ſmall Army, and towards them we marched, and all the way our Ordnance played upon them, and then the Musketiers came up within ſhot, and gave ſo good fire, and came on ſo faſt upon them, that thoſe <hi>Iriſh</hi> Commanders durſt not ſtay till we came to puſh of pike, but away they ran; then had we the killing of them till 5. a clock at night: And inſtead of their dividing our Wagons, we now divide theirs. We killed neere a thouſand men, beſides the priſoners we took they were hanged. My Lord <hi>Montgarrets</hi> ſonne was killed in the battell, and his head brought to <hi>Dublin.</hi> There was not a man killed
+<pb n="8" facs="tcp:36078:5"/> of ours, and not above eight hurt. I received a ſmall hurt, but it is almoſt well alreadie. I deſire you ſend this Letter to my father when you have read it.</p>
+            <closer>
+               <signed>Tho. Wyld.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:36078:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
